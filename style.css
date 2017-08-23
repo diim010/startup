@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header {
 }
 nav ul li {
@@ -22,3 +23,9 @@ nav ul li {
 
 /*// Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) { ... }
+=======
+* {
+  margin: 0;
+  padding: 0;
+}
+>>>>>>> ccd8efdf61b6e353bf10a9ff79f10e11e8a86078
