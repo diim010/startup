@@ -1,5 +1,18 @@
 /* Main Stylesheet */
 .cell {
-    background-color: rgb(78, 78, 152);
-    outline: 1px solid black;
+    max-height: 70px;
+    background-color: whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.block h2 {
+    font-size: 18px;
+    text-align: center;
+}
+body {
+    background-color: rgba(213, 198, 198, 0.852);
+    overflow: hidden;
+}
+.top-bar, .top-bar ul {
+    background-color: rgb(33, 28, 28);
 }
