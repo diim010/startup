@@ -1,1 +1,5 @@
 /* Main Stylesheet */
+.cell {
+    background-color: rgb(78, 78, 152);
+    outline: 1px solid black;
+}
